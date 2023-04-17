@@ -1,0 +1,4 @@
+day 1: why program
+I learned that programmers exist because users need "tools" and programmers use programs to make those tools
+I took an in-depth look in to the opereting system
+I started debugging
