@@ -1,0 +1,6 @@
+x = input('work days:')
+y = input('pay rate:')
+pay = float(x) * float(y)
+print("pay:",pay)
+p = int(pay)
+print(p)
