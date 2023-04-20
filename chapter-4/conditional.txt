@@ -1,0 +1,2 @@
+tody he went over if, else and elif statements.
+he also went over try and extects funtions to try unstable code
