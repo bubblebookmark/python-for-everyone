@@ -15,7 +15,7 @@ try:
 except:
     grade = 1
 
-if grade == 1:
+if grade == 1 :
     print("error")
 elif grade >= 0.9:
     print("A")

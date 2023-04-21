@@ -1,0 +1,9 @@
+we went over 
+the max funtion: finds the max of a list or sting or itegeral
+the min funtion: oppiste of max funtion
+type funtion: finds what kind of thing it is
+float and int converts string to integal
+started definingd funtions
+An argument is a value we pass into the function as its input when we call the function
+A parameter is a variable which we use in the function definition.
+a return value stores a value
