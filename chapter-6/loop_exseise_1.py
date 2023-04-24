@@ -16,10 +16,9 @@ while True:
     except:
         print("invalid input")
         continue
-    if largest == None:
-        largest = -1 * math.inf
-    if smallest == None:
-        smallest = math.inf
+    if largest == None and smallest == None:
+        largest = value
+        smallest = value
     if value < smallest:
         smallest = value
         continue

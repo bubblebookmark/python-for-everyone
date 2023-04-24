@@ -1,0 +1,2 @@
+we went to how to manipulate different strings
+we can slice, use in and how to uppercase and lower case.
