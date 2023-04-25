@@ -1,0 +1,8 @@
+went ocer thr open(filename,w or r)
+w = write and r = read
+went over the \n (new line)
+can skip lines with continue
+
+Opening a file - file handle
+File structure - newline character
+Reading a file line by line with a for loop
