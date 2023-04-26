@@ -13,9 +13,18 @@ except:
     quit()
 
 count = 0
+pos = 0
+ans = None
+total = 0
+
 for line in fh:
     if not line.startswith("X-DSPAM-Confidence:"):
-        count = count + 1
         continue
-    print(line)
+    else :
+        count = count + 1
+        pos = line.find(':')
+        ans = line[pos+1 : ]
+        total = total + float(ans)
+avg = total/count
+print(avg)
 print("Done")
