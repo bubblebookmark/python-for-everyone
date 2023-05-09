@@ -1,0 +1,2 @@
+today we learnt about Dictionaries. more about the key and value.
+we differated between a list and a Dictionary
