@@ -1,0 +1,8 @@
+they are not mutable. that is they can not be edited.
+they are limited lists but are more efficent
+they can be made into dictionaries
+new commands
+.items()
+_iems()
+funtions
+sorted()
